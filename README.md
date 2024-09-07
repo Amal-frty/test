@@ -10,4 +10,4 @@
 ## Разработчик
 Имя: [Амаль]  
 Группа: [361]  
-GitHub: [Ссылка на ваш GitHub профиль]
+GitHub: [https://github.com/Amal-frty]
